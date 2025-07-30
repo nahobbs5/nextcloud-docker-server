@@ -40,6 +40,6 @@ touch docker-compose.yml
 ### Next Steps
 
 Run sudo docker-compose up -d to start NextCloud.  
-Access NextCloud at http://<server-ip>:8080.  
+Access NextCloud at `http://<server-ip>:8080.`  
 Configure NextCloud via the web interface.  
 
