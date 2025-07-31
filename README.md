@@ -23,13 +23,13 @@ Complete installation and reboot.
 
 ### 3. Install Docker
 Run the following commands to install Docker on Ubuntu:  
-sudo apt update && sudo apt upgrade -y  
-sudo apt install docker-compose  
+`sudo apt update && sudo apt upgrade -y`    
+`sudo apt install docker-compose`  
 
 ### 3b. Verify Docker Installation
 Test Docker with:  
-docker --version  
-sudo docker run hello-world  
+`docker --version`  
+`sudo docker run hello-world`  
 
 ### 4. Create Docker Compose YAML for Nextcloud
 Create a docker-compose.yml file for Nextcloud:  
