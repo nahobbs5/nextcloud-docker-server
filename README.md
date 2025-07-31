@@ -50,5 +50,5 @@ Configure NextCloud via the web interface.
 ### Additional Recommendations
 Add number to nano with  
 `nano ~/.nanorc`  
-`set linenumbers`
+`set linenumbers`  
 Install yamllint to make debugging yaml file easier (especially if using nano)
