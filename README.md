@@ -6,7 +6,8 @@ This guide walks through setting up a WireGuard VPN to access iDRAC, installing 
 - Wireguard
 - Dell server with iDRAC enabled
 - Ubuntu Server LTS ISO
-- basic knowledge of Linux command line
+- Basic knowledge of Linux command line
+- Familiarity with Docker containers
 
 ## Steps
 ### 1. Configure WireGuard VPN for iDRAC Access
